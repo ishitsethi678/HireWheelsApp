@@ -20,11 +20,7 @@
 <img width="400" alt="Screenshot 2022-10-28 at 2 37 08 PM" src="https://user-images.githubusercontent.com/108087172/198554893-db144564-aea2-4c13-8bdd-3a5ebee4e184.png">
 
 
-1. User SignUp and Login using **UserController**
 
-<img width="920" alt="Screenshot 2022-10-28 at 10 40 21 AM" src="https://user-images.githubusercontent.com/108087172/198554139-7c1a81c3-ed33-4902-b14f-694f1a45f78e.png">
-
-<img width="470" height="300" alt="Screenshot 2022-10-28 at 10 33 36 AM" src="https://user-images.githubusercontent.com/108087172/198554190-7eb5e5af-394c-4806-9b12-2332f556ed0b.png">  <img width="470" height="300" alt="Screenshot 2022-10-28 at 10 33 30 AM" src="https://user-images.githubusercontent.com/108087172/198554205-38ebea52-c8b2-42ab-a699-e4d0dedea3e7.png">
 
 
 2. Add Vehicle using **AdminController**
